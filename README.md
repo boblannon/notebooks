@@ -16,9 +16,11 @@ Dependencies
 ------------
 Didn't want to make one single requirements.txt, but maybe I'll make a bunch of different ones? In the meantime, if you get an import error, here's some stuff you might not have:
 
-* the major scientific computing packages (SciPy, NumPy, Scikit-learn, etc) 
-    * The easiest way to get most of this stuff is to install the "Enthought Python Distribution"[http://www.enthought.com/products/epd.php]
-    * that's not necessary, though: you can absolutely 
+* the major scientific computing packages 
+   * SciPy
+   * NumPy
+   * Scikit-learn
+   * matplotlib
 * nltk
     * in PyPi
     * you may have to download some of the corpus resources: http://nltk.org/api/nltk.html#module-nltk.downloader
