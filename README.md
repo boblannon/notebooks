@@ -26,7 +26,6 @@ Didn't want to make one single requirements.txt, but maybe I'll make a bunch of 
     * you may have to download some of the corpus resources: http://nltk.org/api/nltk.html#module-nltk.downloader
 * pandas
     * also in PyPi
-    * wes mckinney's book also describes good ways to set up your environment with EPD
 
 Running a notebook
 ------------------
